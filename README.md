@@ -1,4 +1,4 @@
-SAP Message Server & Gateway research
+SAP Message Server research
 -------------------------------------
 
 Copyright (c) 2018-2019 by Mathieu Geli
