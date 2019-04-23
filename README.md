@@ -1,6 +1,9 @@
 SAP Message Server & Gateway research
 -------------------------------------
 
+Copyright (c) 2018-2019 by Mathieu Geli
+
+
 Exploit code development for two new attacks:
 
 - Logon Group (transparent) Hijacking
