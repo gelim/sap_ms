@@ -19,4 +19,4 @@ with an utility for SAP MS storage monitoring (control MS state during attack)
 
 ### OPCDE 2019 Dubai:
 
-https://docs.google.com/presentation/d/e/2PACX-1vTaDjuplkEr5OVRFdfy4Dya4Df9WyzrnFrWwJQh4SJf856_JU2gFRKVUPWoYK5yYUPTw0Q2V0VXbmPQ/pub?start=false&loop=false&delayms=3000
+https://github.com/comaeio/OPCDE/blob/master/2019/Emirates/(SAP)%20Gateway%20to%20Heaven%20-%20Dmitry%20Chastuhin%2C%20Mathieu%20Geli/(SAP)%20Gateway%20to%20Heaven.pdf
