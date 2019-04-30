@@ -11,10 +11,6 @@ Exploit code development for two new attacks:
 
 with an utility for SAP MS storage monitoring (control MS state during attack)
 
-## Code dependency
-
-- "mspatched" experimental fork of pysap : https://github.com/gelim/pysap
-
 ## Presentation
 
 ### OPCDE 2019 Dubai:
