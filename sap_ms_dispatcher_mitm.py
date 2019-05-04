@@ -1,8 +1,22 @@
 #!/usr/bin/env python
+# ===========
+# pysap - Python library for crafting SAP's network protocols packets
 #
-# Register via Message Server a fake AS for a given logon group and redirect
-# users to the real one. This requires network access to the MS internal port 39NN.
-# -- gelim
+# Copyright (C) 2018-2019, Mathieu @gelim Geli
+#
+# The library was designed and developed by Mathieu Geli from
+# ERPScan Corporation's Labs team.
+#
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation; either version 2
+# of the License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+# ==============
 
 from pysap.SAPNI import SAPNI,SAPNIStreamSocket
 from pysap.SAPMS import SAPMS,SAPMSProperty,SAPMSLogon,SAPMSClient4,SAPMSAdmRecord
