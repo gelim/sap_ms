@@ -62,9 +62,9 @@ Those measures allow to track sign of exploitation.
 ### Gateway activity
 
 - Monitor gateway access and transactions executed: SAPXPG is the
-  transaction program to look for, used in our `SAPanonGW` exploit to
-  run OS command. Gateway developer logs are stored in the `dev_rd`
-  file and application logs can be configured via transaction SMGW.
+  transaction program to look for, used in our `SAPanonGW` PoC to run
+  OS command. Gateway developer logs are stored in the `dev_rd` file
+  and application logs can be configured via transaction SMGW.
 - Network traffic analysis for discovering untrusted sources
   connecting to gateway port (tcp/33NN)
 
@@ -119,8 +119,8 @@ execute for instance OS command `whoami`
 
 ### Message Server threat
 
-Assessing this one is a bit more tricky, as the "be_trusted" exploit
-is not 100% reliable and may have side effects on Logon Group
+Assessing this one is a bit more tricky, as the "be_trusted" PoC is
+not 100% reliable and may have side effects on Logon Group
 availability. We strongly do not advise testing on production systems.
 
 If you really want to showcase that during a blackbox assessment, you
