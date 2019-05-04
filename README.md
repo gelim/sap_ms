@@ -161,7 +161,7 @@ That is specialized in a way that usual search scan engines like
 
 ## Greetz
 
-- [Martin Gallo](@MartinGalloAr) for all his pysap work and advises
-- [Joris van de Vis](@jvis) for feedback on testing
+- [Martin Gallo](https://twitter.com/MartinGalloAr/) for all his pysap work and advises
+- [Joris van de Vis](https://twitter.com/jvis/) for feedback on testing
 - Onapsis for spreading FUD and the `10KBLAZE` name that does not link
   back to this research
