@@ -23,7 +23,7 @@ responsible and is missing some threat analysis on our publication.
 
 ### Gateway issue
 
-This is issue is known publicly since 2007, and securing guidlelines
+This is issue is known publicly since 2007, and securing guidelines
 were published by SAP since 2009. From our experience this issue has
 mostly disappeared as servers are updated, and old one are being
 secured.
@@ -34,7 +34,7 @@ it is possible to run OS commands on the remote server via anonymous
 network access.
 
 In order to get access to business data, the attacker need to have
-specific SAP internals knowledge. A script kiddy/automated tool will
+specific SAP internals knowledge. A script kiddie/automated tool will
 barely launch a cryptocurrency miner.
 
 ### Message Server issue
@@ -51,7 +51,7 @@ dependant on SAP kernel version. It means success is not ensured even
 if the proper version is implemented. Having something stable will
 require a good amount of SAP and reverse engineering expertise.
 
-As we explainted in our presentation, lab testing was done using full
+As we explained in our presentation, lab testing was done using full
 SAP server as the attacker's host, so an attacker do not need our
 python script to gain successful exploitation.
 
@@ -76,7 +76,7 @@ detection, but still is better than nothing.
 
 ### Message server activity
 
-- The `dev_ms` developer log file stores connections informations on the Message
+- The `dev_ms` developer log file stores connection information on the Message
   Server
 - You can have a real-time view by using transaction `SMMS` via SAP
   GUI
@@ -146,7 +146,7 @@ https://twitter.com/MartinGalloAr/status/1124347630555938820
 What about those world maps with scary numbers?
 
 That is SAP specialized TCP SYN scans to detect presence of a specific
-SAP service (here SAP Gateawy, SAP Router, SAP Message Server) behind
+SAP service (here SAP Gateway, SAP Router, SAP Message Server) behind
 a certain port. That DOES NOT imply that the services are affected by
 the discussed vulnerabilities. It is here to help quantify the
 "external threat" and show that backend servers holding usually
@@ -161,7 +161,8 @@ That is specialized in a way that usual search scan engines like
 
 ## Greetz
 
-- [Martin Gallo](https://twitter.com/MartinGalloAr/) for all his pysap work and advises
+- [Martin Gallo](https://twitter.com/MartinGalloAr/) for all his
+  [pysap](https://github.com/SecureAuthCorp/pysap) work and advices
 - [Joris van de Vis](https://twitter.com/jvis/) for feedback on testing
 - Onapsis for spreading FUD and the `10KBLAZE` name that does not link
   back to this research
