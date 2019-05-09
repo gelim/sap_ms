@@ -14,7 +14,8 @@ with an utility for SAP MS storage monitoring.
 
 ### OPCDE 2019 Dubai:
 
-The slides of the presentation are available [here](https://github.com/comaeio/OPCDE/blob/master/2019/Emirates/(SAP)%20Gateway%20to%20Heaven%20-%20Dmitry%20Chastuhin%2C%20Mathieu%20Geli/(SAP)%20Gateway%20to%20Heaven.pdf)
+The slides of the presentation are available
+[here](https://github.com/comaeio/OPCDE/blob/master/2019/Emirates/(SAP)%20Gateway%20to%20Heaven%20-%20Dmitry%20Chastuhin%2C%20Mathieu%20Geli/(SAP)%20Gateway%20to%20Heaven.pdf)
 
 ## Threat analysis
 
@@ -157,7 +158,16 @@ That is specialized in a way that usual search scan engines like
 [zoomeye](http://zoomeye.org) or [onyphe](http://onyphe.io) does not
 **yet** fully provide this information.
 
+## Links
 
+At the moment the only article we think is valuable to be read is this
+one.
+
+- https://www.serpenteq.com/en/blog/10KBlaze.html : "10KBLAZE - HYPE & SCAREMONGERING"
+
+All the other articles related to our research looks like news orders
+with sole interviewee a company which is selling SAP security tools
+and consultancy.
 
 ## Greetz
 
