@@ -58,23 +58,19 @@ Moreover, we did not just released PoC, we provided improvements to the publicly
 ## News analysis
 
 
-The most relayed news articles do some quick shortcut that helps propagate fear. This is an excellent occasion for a SAP security solution vendor to promote its services. You just need to take all those news report and look at who was interviewed to get a better idea.
-
+The most relayed news articles do some quick shortcut that helps propagate fear: taking the number of SAP clients, taking as granted insecure configurations and that our tools are 100% reliable. They don’t go into details about conditions required for all of that to happen. Additionally there is the assumption that no one had already this knowledge nor there is any malicious actor eventually able to get this knowledge on their own.
+Keeping the knowledge and exploits in-house (as Onapsis did) does not help to increase the security posture of the SAP customers but instead works on the model of "security through obscurity".
 
 On all the articles you can find, the only news company that have been in contact with us is Reuters. Unfortunately it was not possible to know in advance details of the resulting article and our requests for clarifications and edits after publication were unsuccessful.
-
 
 ## FUD and ethic
 
 
-The will of companies to make money with the desire of some journalists to write a traffic-generating article with clickbait titles leads us to the fact that every day we have to read news that the next trillion systems/devices were hacked, although in fact someone just found double-blind-self-xss (this is a fictional name) on a forgotten domain of a well-known company.
+The will of companies to make money combined with the desire of some journalists to write a traffic-generating article with clickbait titles leads us to the fact that every day we have to read news that the next trillion systems / devices were hacked, although in fact someone just found double-blind- self-xss (this is a fictional name) on a forgotten domain of a well-known company
 
+In our case, everything turned out to be much worse. Onapsis did not just release a frightening press release that 9 out of 10 are vulnerable describing our research, but also came up with the name 10KBlaze (where is our logo and dedicated domain?) for our PoCs without specifying any direct links to the original research.
 
-In our case, everything turned out to be much worse. Onapsis did not just release a frightening press release that 9 systems out of 10 are vulnerable describing our research, but also came up with the name 10KBlaze (where is our logo and dedicated domain?) for our PoCs without specifying any direct links to the original research.
-
-
-Those 9 out of 10 might be a wild guess from Onapsis' customer base. We are sure it does not represent the universe of all SAP customers. Onapsis' customers probably are hiring them because they need security advise and are probably not representative of the overall status of security.
-
+Those 9 out of 10 might be a wild guess from Onapsis' customer base, We are sure it does not represent the universe of all SAP customers. Onapsis' customers probably are hiring them because they need security advise and are probably not representative of the overall status of security.
 
 A simple search on the hashtag #10KBlaze shows how much Onapsis wants the community to find out about our work, without mentioning us.
 
